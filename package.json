@@ -1,6 +1,6 @@
 {
   "name": "genoset-228",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determines if affected by sickle cell anemia",
   "main": "index.js",
   "directories": {
