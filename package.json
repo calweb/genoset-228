@@ -1,7 +1,7 @@
 {
   "name": "genoset-228",
   "version": "1.0.0",
-  "description": "Determines lower heart attack risk than average - 10-20% of people",
+  "description": "Determines if affected by sickle cell anemia",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -19,7 +19,7 @@
     "genoset",
     "gs228",
     "genes",
-    "heart+risk"
+    "sickle+cell+anemia"
   ],
   "author": "Calvin Webster <calweb@gmail.com>",
   "license": "MIT",
